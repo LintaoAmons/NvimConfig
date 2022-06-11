@@ -1,0 +1,5 @@
+require("options")
+require("plugins")
+require("plugin-configs")
+require("lsp")
+require("keymaps")
