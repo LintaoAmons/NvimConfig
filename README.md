@@ -5,11 +5,23 @@
 > <a>https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ</a>
 > <a>https://space.bilibili.com/26319956</a>
 
-# Keybindings Configuration
-
-- `no-leader-keymappings` 放了不是以 `<leader>` 打头的快捷键配置
-- `which-key` 放了所有以 `<leader>` 打头的快捷键配置，并且加上了说明
-- `telescope` 有一些 telescope 相关的快捷键配置
+# 非常重要的插件
+- Packer 插件管理安装
+  - `wbthomason/packer.nvim`
+- Explorer 文件浏览
+  - `kyazdani42/nvim-tree.lua`
+- Lsp 相关，简化Lsp配置与安装
+  - `neovim/nvim-lspconfig`
+  - `williamboman/nvim-lsp-installer`
+  - `jose-elias-alvarez/null-ls.nvim`
+- Which-key 可维护的快捷键
+  - `folke/which-key.nvim`
+- Telescope 各种搜索
+  - `nvim-telescope/telescope.nvim`
+- Treesitter 文档树解析，语法高亮，速度快
+  - `nvim-treesitter/nvim-treesitter`
+  - optional: `nvim-treesitter/playground` 
+- Color Scheme 随便找一个
 
 # Config Structure
 
