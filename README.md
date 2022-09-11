@@ -1,3 +1,7 @@
+# Deprecated
+
+I switched to [Astronvim](https://astronvim.github.io/) and here's my new [config](https://github.com/LintaoAmons/astronvim_user)
+
 # Lintao's nvim
 > Thanks to 
 > 
